@@ -73,5 +73,4 @@ Where each \(S_i\) is calculated by a full adder.
 ### Schematic
 ![Ripple Carry Adder Schematic](./images/ripple_carry_adder.png)
 
-### Performance
-The major drawback of the Ripple Carry Adder is its delay, which increases linearly with the number of bits being added. This delay is caused by the propagation of the carry through each adder in the chain.
+
